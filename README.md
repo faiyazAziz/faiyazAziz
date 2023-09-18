@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Codechef Badge"/>
   </a>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazAziz&theme=tokyonight)
 <!--
 **faiyazAziz/faiyazAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
